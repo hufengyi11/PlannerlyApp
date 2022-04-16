@@ -1,0 +1,194 @@
+[
+    {
+        "id": "EF1CC5BB-4785-4D8E-AB98-5FA4E00B6A66",
+        "name": "Offer Stage",
+        "items": [
+            {
+                "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+                "name": "Accept the Offer",
+                "photoCredit": "",
+                "description": ""
+            },
+            {
+                "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
+                "name": "Pay the deposit",
+                "photoCredit": "",
+                "description": ""
+            },
+            {
+                "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
+                "name": "Submit exam results",
+                "photoCredit": "",
+                "description": " "
+            },
+            {
+                "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
+                "name": "Submit other results",
+                "photoCredit": "",
+                "description": " "
+            },
+            {
+                "id": "82B28AFF-BB29-4186-AA07-04959180D81A",
+                "name": "English Language Test",
+                "photoCredit": "顾家北",
+                "description": " "
+            }
+        ]
+    },
+    {
+        "name": "Visa Stage",
+        "id": "3D97FAB4-50AC-40FC-9BF0-3F46BB6A92F5",
+        "items": [
+            {
+                "id": "D44AAEBC-BF4F-42CD-8C37-0FEF772A5B69",
+                "name": "Deposit",
+                "photoCredit": "",
+                "description": ""
+            },
+            {
+                "id": "2BAD20C5-D007-4BBE-B074-8CF0F256A42F",
+                "name": "Do you have your passport?",
+                "photoCredit": "",
+                "description": ""
+            },
+            {
+                "id": "759527CB-1064-4082-A527-F04698F9D18F",
+                "name": "TB Test",
+                "photoCredit": "Shanghai International Travel Medical Center",
+                "description": "TB test certificate varies based on your nationality, and where you've been. If you are located in China for the past 6 months, we recommend Shanghai International Travel Medical Center to book a test."
+            },
+            {
+                "id": "AD419CE6-50CC-4132-BE8E-B92B9DFE4D02",
+                "name": "CAS",
+                "photoCredit": "",
+                "description": " "
+            },
+            {
+                "id": "944AB773-16CA-48F9-BB64-BB0E482FE102",
+                "name": "Self-check: translation and notary",
+                "photoCredit": "",
+                "description": "Make sure to check if all your documents needs to be translated before submission."
+            },
+            {
+                "id": "024763B6-2577-4D04-9A4F-321F3EB19EA6",
+                "name": "BRP",
+                "photoCredit": "",
+                "description": "when you are making an appointment for visa appointment, you will be asked to choose a location to pick up your BRP card when you arrive in the UK. It's either from the Univeristy or the post office. If you would like to pick up from the univerity, make sure to put in the right address and post code of the designated adress. "
+            },
+            {
+                "id": "22E8B9F0-94C1-43EC-9B19-34F22CA17B6B",
+                "name": "Make Appointment",
+                "photoCredit": "",
+                "description": "."
+            }
+        ]
+    },
+    {
+        "name": "Pre-Arrival",
+        "id": "1C89DAFD-7653-4EF2-BF20-C51A159BAC43",
+        "items": [
+            {
+                "id": "AB7E38EA-05A7-426A-AFF3-B3A32B3E86BF",
+                "name": "Tuition fee",
+                "photoCredit": "",
+                "description": " "
+            },
+            {
+                "id": "758ABBE3-F338-4F7C-BAC7-8D61BC1FB329",
+                "name": "Accommondation",
+                "photoCredit": "Gradpad",
+                "description": "When choosing a place to live, generally you have two options, either the student halls or private renting. Do notice that you don't have to pay the council tax when renting. "
+            },
+            {
+                "id": "A73E2D2D-D53A-46D4-8829-62011EEF7DA4",
+                "name": "Book flight",
+                "photoCredit": "cTrip",
+                "description": "Make sure to check the luggage requirements before you book a ticket. "
+            },
+            {
+                "id": "971CFDDD-2AFA-418F-909F-D459CC6827CF",
+                "name": "Luggage list",
+                "photoCredit": "",
+                "description": "What do you need to bring abroad? Generally, you don't have to bring too many clothes, and you have to consider the local climate, usually in the UK it's quite cold and windy, so it's better to bring a wind-proof jacket. Although in the UK, they have a lot of common stores, such as Zara and H&M, we do suggest you bring your suit or tux if necessary. The principle goes the same for other items: only bring the things you can't find in the UK. However, I do recommend everyone to bring a fresh bed sheet for your jet lag. "
+            },
+            {
+                "id": "190E1A9D-20A4-4F98-AA54-B192E1C4D7B9",
+                "name": "Pickup arrangement at the airport",
+                "photoCredit": "Uber",
+                "description": "Usually the University will provide pick-up service, however it might not be the case. If you arrived in London, the tube can take you to mostly every where. To use the tube, you need to get an oyster card or use contactless payment method such as apple pay. We recommend you to get an oyster card when you are in the tube station. You can get it from a top-up machine by the gate.  "
+            },
+            {
+                "id": "DD20B3C1-438A-4657-BCFA-A0C6DA1AE7EE",
+                "name": "Other necesseties in advance",
+                "photoCredit": "",
+                "description": "  "
+            },
+            {
+                "id": "44FBAFC0-BEE0-4A02-9C57-B8ECDC1CE5E1",
+                "name": "Package and delivery service",
+                "photoCredit": "Royal Mail",
+                "description": "see a list of delivery provider and comparisons."
+            }
+        ]
+    },
+    {
+        "name": "Just Arrived",
+        "id": "CE3C67F9-79E3-46E3-B134-362A52ABFE3C",
+        "items": [
+            {
+                "id": "A4D89AF9-190E-4409-B924-AABD13DBB6A4",
+                "name": "Collect BRP card",
+                "photoCredit": "",
+                "description": "you should be able to collect your BRP at your univeristy student support office. More details see univeristy email. "
+            },
+            {
+                "id": "FC201614-1418-4152-9469-087B27485D13",
+                "name": "Phone Plan",
+                "photoCredit": "3",
+                "description": "a list of major phone plan provider and comparisons"
+            },
+            {
+                "id": "58CE3F3E-74E1-4C5F-A630-986B187788B5",
+                "name": "Open Bank Account",
+                "photoCredit": "Barcleys",
+                "description": "Things you need to bring to open a bank account: university registration letter, your ID, ..."
+            },
+            {
+                "id": "71B872F2-3B5D-46D0-9D98-E696B4AE30E4",
+                "name": "Police registration",
+                "photoCredit": "",
+                "description": "Note: you need to register with the police within 15 days of arriving in the UK or as requested on your veginette. "
+            },
+            {
+                "id": "DE58CEFF-7023-4B60-88CC-80C5B7BFB6EC",
+                "name": "GP registration",
+                "photoCredit": "NHS",
+                "description": "This is tea made from chrysanthemum. No, we're not quite sure how that works either. Do we press the leaves? Is chrysanthemum even a plant? It sounds like some sort of wild animal. Maybe we milked it to make this drink."
+            },
+            {
+                "id": "E7584DB6-2EAE-4178-ADB2-9E5DBD5215EA",
+                "name": "Uni IT setup",
+                "photoCredit": "",
+                "description": "What do you get if you pour a whole bottle of orange juice into a glass? This – you get this. Fun fact: oranges aren't named that because they are colored orange, but because they are high in the vitamin orangoflavin. (Note: not actually true.)"
+            },
+            {
+                "id": "F0B4DF27-B293-4151-8480-FA46DFCA5BBB",
+                "name": "Grocery and shopping",
+                "photoCredit": "Amazon Fresh",
+                "description": "A list of things you might need: beddings, pots and pans, cleaning tools, seasoning, electronics. Tip: Flat sheet vs Fitted sheet: A flat sheet (used on top) is a rectangular sheet, whereas a fitted sheet (used on bottom) has its corners, and sometimes sides, fitted with elastic."
+            },
+            {
+                "id": "FD3BACF7-01AE-449D-8929-26C6F8EC90D5",
+                "name": "Transportation",
+                "photoCredit": "",
+                "description": "Our chef spent years trying out various authentic Neapolitan recipes for pizza, but in the end we found this really good frozen thing from Waitrose and we can't tell the difference. If you buy this you'll be in an A/B test where you'll get one of the two served to you."
+            },
+            {
+                "id": "F5BCE219-391D-4AAF-8DA7-D25096776D46",
+                "name": "Internet providers",
+                "photoCredit": "",
+                "description": "We recommond virgin media, it's fast and stable. "
+            }
+        ]
+    }
+]
